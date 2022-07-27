@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+body {
+    background-image: url("");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+form {
+    opacity: .8;
+}
